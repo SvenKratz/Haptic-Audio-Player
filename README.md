@@ -9,6 +9,6 @@ The prototype realizes an audio player that guides the user through haptic cues.
 
 ## Hardware Requirement
 
-The prototype requires the [Spidar Mouse!](http://sklab-www.pi.titech.ac.jp/blog/introduction/spidar-mouse/) to work. 
+The prototype requires the [Spidar Mouse](http://sklab-www.pi.titech.ac.jp/blog/introduction/spidar-mouse/) to work. 
 
 ![Screnshot](https://raw.githubusercontent.com/SvenKratz/Haptic-Audio-Player/master/img/haptic_audio.jpg "screenshot of the Haptic Audio Player")
